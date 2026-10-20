@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       C6N2
+_chemical_formula_sum              "C6 N2"
+_cell_length_a       3.5334300940275862
+_cell_length_b       3.5334299410234373
+_cell_length_c       6.754384359179463
+_cell_angle_alpha    103.21792065879961
+_cell_angle_beta     103.21792491482485
+_cell_angle_gamma    39.948632652424266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.2748144992597669  0.27481450908548616  0.049546775379457  1.0000
+  C   C2        1.0  0.3978698724977832  0.3978698909899229  0.2718320476021667  1.0000
+  C   C3        1.0  0.22898484791124915  0.2289848389860586  0.4320210544696441  1.0000
+  C   C4        1.0  0.7710151464096962  0.7710151534294823  0.56797904036756  1.0000
+  C   C5        1.0  0.6021301140012862  0.6021300913729314  0.7281680530489989  1.0000
+  C   C6        1.0  0.7251854555700119  0.7251854434128692  0.9504533300058813  1.0000
+  N   N1        1.0  0.01908949252202881  0.019089493316187818  0.31214971743615155  1.0000
+  N   N2        1.0  0.9809104872281935  0.9809104948070424  0.6878503549901401  1.0000

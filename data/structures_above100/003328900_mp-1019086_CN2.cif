@@ -1,0 +1,23 @@
+data_mp-1019086
+_audit_creation_method 'MToolbox LeMat-Bulk converter'
+_chemical_formula_sum 'CN2'
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_cell_length_a 3.3119755400
+_cell_length_b 3.3119755400
+_cell_length_c 4.7447090000
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta 90.0000000000
+_cell_angle_gamma 90.0000000000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.5000000000 0.5000000000 0.0000000000
+C2 C 0.0000000000 0.0000000000 0.0000000000
+N1 N 0.1545114700 0.3454885300 0.1609995200
+N2 N 0.3454885300 0.8454885300 0.8390004800
+N3 N 0.8454885300 0.6545114700 0.1609995200
+N4 N 0.6545114700 0.1545114700 0.8390004800

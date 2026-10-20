@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.hdf5
+*.log
+slurm-*.out
+*.nequip.zip
+runs/
+slurm-*.err
+/code/kappa_worker.py
+/slurm/

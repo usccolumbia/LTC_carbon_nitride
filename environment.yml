@@ -1,0 +1,17 @@
+name: nequip-phono3
+channels: [conda-forge]
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - scipy=1.15.3
+  - phonopy=3.5.0
+  - phono3py=3.30.1
+  - spglib=2.7.0
+  - h5py
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu121
+      - torch==2.5.1
+      - nequip==0.17.1
+      - ase==3.28.0
+      - pymatgen==2025.10.7
