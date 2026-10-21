@@ -1,0 +1,50 @@
+{
+  "title": "High lattice thermal conductivity in the bulk carbon-nitride family approaching cubic boron nitride",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-10-21",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Chevva, Ram Linga Reddy",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    },
+    {
+      "name": "Omee, Sadman Sadeed",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    },
+    {
+      "name": "Anam, Md Zaibul",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    },
+    {
+      "name": "Das Gupta, Dipannoy",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    },
+    {
+      "name": "Hu, Ming",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    },
+    {
+      "name": "Hu, Jianjun",
+      "affiliation": "University of South Carolina, Columbia, SC, USA"
+    }
+  ],
+  "description": "<p>Code and data accompanying the manuscript <em>High lattice thermal conductivity in the bulk carbon-nitride family approaching cubic boron nitride</em>.</p><p>The archive contains the initial screening table for 270 binary carbon-nitrogen structures, 25 machine-learning interatomic-potential results with input and relaxed structures, first-principles thermal-conductivity data for 11 structures, and scripts for building the tables and polymorph groups.</p><p>Code is licensed under the MIT License. Data in the data/ directory are licensed under Creative Commons Attribution 4.0 (CC BY 4.0); input structures retain their source attribution to LeMaT-Bulk and its source databases as described in the README.</p>",
+  "keywords": [
+    "carbon nitride",
+    "lattice thermal conductivity",
+    "phonon transport",
+    "materials informatics",
+    "first-principles calculations"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/usccolumbia/LTC_carbon_nitride",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
