@@ -1,6 +1,10 @@
 # High lattice thermal conductivity in the bulk carbon-nitride family approaching cubic boron nitride
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23541408.svg)](https://doi.org/10.5281/zenodo.23541408)
+
 Code and data for *High lattice thermal conductivity in the bulk carbon-nitride family approaching cubic boron nitride* (R. L. R. Chevva et al.). Citation details will be added on publication.
+
+Archived code and data, version 1.0.0: [10.5281/zenodo.23541408](https://doi.org/10.5281/zenodo.23541408). The [all-versions DOI](https://doi.org/10.5281/zenodo.23541407) points to the latest archived release.
 
 ## Pipeline
 
