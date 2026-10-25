@@ -6,6 +6,15 @@ Code and data for *High lattice thermal conductivity in the bulk carbon-nitride 
 
 Archived code and data, version 1.0.0: [10.5281/zenodo.23541408](https://doi.org/10.5281/zenodo.23541408). The [all-versions DOI](https://doi.org/10.5281/zenodo.23541407) points to the latest archived release.
 
+## Highlight: two new high-conductivity carbon nitrides
+
+![Bulk carbon nitrides: high conductivity and strong directionality](docs/highlight_carbon_nitrides.png)
+
+Screening all 270 {C, N} bulk structures in LeMaT-Bulk and validating 11 with DFT identifies two standout materials (`data/table3_dft.csv`, 300 K):
+
+- **C₁₂N₄ (C2/c), a 3D heat spreader:** mean lattice thermal conductivity κ = 763 W m⁻¹ K⁻¹, nearly isotropic (κmax/κmin = 1.34).
+- **C₂N₄ (P-3m1), a layered thermal director:** κ = 882 W m⁻¹ K⁻¹ in-plane and 3.7 W m⁻¹ K⁻¹ cross-plane, a 238-fold anisotropy.
+
 ## Pipeline
 
 1. **Input.** All 270 {C, N} bulk structures in LeMaT-Bulk (Materials Project, OQMD and Alexandria entries).
